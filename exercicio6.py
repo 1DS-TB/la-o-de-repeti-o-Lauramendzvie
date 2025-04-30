@@ -1,8 +1,9 @@
 n = int(input("Quantos termos? "))
+
 a = 0
 b = 1
-contador = 0
 
+contador = 0
 while contador < n:
     print(a)
     proximo = a + b
